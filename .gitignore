@@ -1,0 +1,13 @@
+# VS Code
+.vscode/
+*.code-workspace
+*.pdf
+
+# Competitive Programming Helper
+.cph/
+
+# Compiled executables
+*.exe
+
+# Problem template
+Problem_Template/

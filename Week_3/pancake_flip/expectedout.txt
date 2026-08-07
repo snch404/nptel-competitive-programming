@@ -1,0 +1,12 @@
+Case #1: IMPOSSIBLE
+Case #2: 0
+Case #3: IMPOSSIBLE
+Case #4: IMPOSSIBLE
+Case #5: IMPOSSIBLE
+Case #6: 2
+Case #7: 3
+Case #8: IMPOSSIBLE
+Case #9: 0
+Case #10: IMPOSSIBLE
+Case #11: 20
+Case #12: IMPOSSIBLE
