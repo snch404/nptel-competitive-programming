@@ -1,4 +1,3 @@
-// Ctrl + Shift +B -> Build (Compile solution.cpp)
 #include <bits/stdc++.h>
 using namespace std;
 
