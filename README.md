@@ -6,16 +6,15 @@ Solutions to the NPTEL Competitive Programming course assignments and practice p
 
 ```
 CP_NPTL/
-├── Book_English.pdf
-├── Problem_Template/
 ├── Week_1/
 ├── Week_2/
 ├── Week_3/
 ├── Week_4/
 ├── Week_5/
-├── Week_6/                  # Reserved for upcoming work
-├── LICENSE
-└── comp programming.code-workspace
+├── Week_6/
+├── Week_7/
+└── LICENSE
+
 ```
 
 Most problem folders contain:
