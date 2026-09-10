@@ -1,11 +1,11 @@
-# CP_NPTL
+# CP_NPTEL
 
 Solutions to the NPTEL Competitive Programming course assignments and practice problems.
 
 ## Structure
 
 ```
-CP_NPTL/
+CP_NPTEL/
 ├── Week_1/
 ├── Week_2/
 ├── Week_3/
