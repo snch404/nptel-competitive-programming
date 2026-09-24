@@ -15,6 +15,7 @@ CP_NPTEL/
 ├── Week_7/
 ├── Week_8/
 ├── Week_9/
+├── Week_10/
 └── LICENSE
 
 ```
